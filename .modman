@@ -1,0 +1,51 @@
+app/code/community/Creativestyle/AmazonPayments                                 app/code/community/Creativestyle/AmazonPayments
+
+app/design/adminhtml/default/default/layout/amazonpayments.xml                  app/design/adminhtml/default/default/layout/amazonpayments.xml
+app/design/adminhtml/default/default/template/creativestyle/amazonpayments      app/design/adminhtml/default/default/template/creativestyle/amazonpayments
+app/design/frontend/base/default/layout/amazonpayments.xml                      app/design/frontend/base/default/layout/amazonpayments.xml
+app/design/frontend/base/default/template/creativestyle/amazonpayments          app/design/frontend/base/default/template/creativestyle/amazonpayments
+
+app/etc/modules/Creativestyle_AmazonPayments.xml                                app/etc/modules/Creativestyle_AmazonPayments.xml
+
+app/locale/de_DE/template/email/amazon_payments_failed.html                     app/locale/de_DE/template/email/amazon_payments_failed.html
+app/locale/de_DE/Creativestyle_AmazonPayments.csv                               app/locale/de_DE/Creativestyle_AmazonPayments.csv
+app/locale/en_GB/template/email/amazon_payments_failed.html                     app/locale/en_GB/template/email/amazon_payments_failed.html
+app/locale/en_GB/Creativestyle_AmazonPayments.csv                               app/locale/en_GB/Creativestyle_AmazonPayments.csv
+app/locale/en_US/template/email/amazon_payments_failed.html                     app/locale/en_US/template/email/amazon_payments_failed.html
+app/locale/en_US/Creativestyle_AmazonPayments.csv                               app/locale/en_US/Creativestyle_AmazonPayments.csv
+app/locale/es_ES/template/email/amazon_payments_failed.html                     app/locale/es_ES/template/email/amazon_payments_failed.html
+app/locale/es_ES/Creativestyle_AmazonPayments.csv                               app/locale/es_ES/Creativestyle_AmazonPayments.csv
+app/locale/fr_FR/template/email/amazon_payments_failed.html                     app/locale/fr_FR/template/email/amazon_payments_failed.html
+app/locale/fr_FR/Creativestyle_AmazonPayments.csv                               app/locale/fr_FR/Creativestyle_AmazonPayments.csv
+app/locale/it_IT/template/email/amazon_payments_failed.html                     app/locale/it_IT/template/email/amazon_payments_failed.html
+app/locale/it_IT/Creativestyle_AmazonPayments.csv                               app/locale/it_IT/Creativestyle_AmazonPayments.csv
+
+js/creativestyle/adminhtml/amazonpayments.min.js                                js/creativestyle/adminhtml/amazonpayments.min.js
+js/creativestyle/vendors/prism.js                                               js/creativestyle/vendors/prism.js
+js/creativestyle/amazonpayments.min.js                                          js/creativestyle/amazonpayments.min.js
+js/creativestyle/amazonpayments.toolbox.min.js                                  js/creativestyle/amazonpayments.toolbox.min.js
+
+lib/OffAmazonPayments                                                           lib/OffAmazonPayments
+lib/OffAmazonPaymentsNotifications                                              lib/OffAmazonPaymentsNotifications
+lib/OffAmazonPaymentsService                                                    lib/OffAmazonPaymentsService
+
+skin/adminhtml/default/default/creativestyle/css/amazonpayments.css             skin/adminhtml/default/default/creativestyle/css/amazonpayments.css
+skin/adminhtml/default/default/creativestyle/css/amazonpayments-highlight.css   skin/adminhtml/default/default/creativestyle/css/amazonpayments-highlight.css
+
+skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-header-logo.png          skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-header-logo.png
+skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-header-logo-white.png    skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-header-logo-white.png
+skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-logo.png                 skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-creativestyle-logo.png
+skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-header.png                             skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-header.png
+skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-section.png                            skin/adminhtml/default/default/creativestyle/images/amazon-payments-advanced-section.png
+skin/adminhtml/default/default/creativestyle/images/logo_a-glyph_16.png                                             skin/adminhtml/default/default/creativestyle/images/logo_a-glyph_16.png
+
+skin/frontend/base/default/creativestyle/css/amazonpayments.css                         skin/frontend/base/default/creativestyle/css/amazonpayments.css
+skin/frontend/base/default/creativestyle/css/amazonpayments-responsive-widgets.css      skin/frontend/base/default/creativestyle/css/amazonpayments-responsive-widgets.css
+skin/frontend/base/default/creativestyle/css/amazonpayments-widgets.css                 skin/frontend/base/default/creativestyle/css/amazonpayments-widgets.css
+skin/frontend/base/default/creativestyle/images/amazon-loading-large.gif                skin/frontend/base/default/creativestyle/images/amazon-loading-large.gif
+skin/frontend/base/default/creativestyle/images/logo_a-glyph_1x.png                     skin/frontend/base/default/creativestyle/images/logo_a-glyph_1x.png
+
+skin/frontend/rwd/default/creativestyle/css/amazonpayments.css                          skin/frontend/rwd/default/creativestyle/css/amazonpayments.css
+skin/frontend/rwd/default/creativestyle/css/amazonpayments-responsive-widgets.css       skin/frontend/rwd/default/creativestyle/css/amazonpayments-responsive-widgets.css
+skin/frontend/rwd/default/creativestyle/images/amazon-loading-large.gif                 skin/frontend/rwd/default/creativestyle/images/amazon-loading-large.gif
+skin/frontend/rwd/default/creativestyle/images/logo_a-glyph_1x.png                      skin/frontend/rwd/default/creativestyle/images/logo_a-glyph_1x.png
